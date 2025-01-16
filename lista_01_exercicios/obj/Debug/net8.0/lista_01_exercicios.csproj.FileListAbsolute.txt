@@ -1,0 +1,14 @@
+C:\Users\vinicius.lmacedo\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01_exercicios\bin\Debug\net8.0\lista_01_exercicios.exe
+C:\Users\vinicius.lmacedo\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01_exercicios\bin\Debug\net8.0\lista_01_exercicios.deps.json
+C:\Users\vinicius.lmacedo\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01_exercicios\bin\Debug\net8.0\lista_01_exercicios.runtimeconfig.json
+C:\Users\vinicius.lmacedo\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01_exercicios\bin\Debug\net8.0\lista_01_exercicios.dll
+C:\Users\vinicius.lmacedo\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01_exercicios\bin\Debug\net8.0\lista_01_exercicios.pdb
+C:\Users\vinicius.lmacedo\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01_exercicios\obj\Debug\net8.0\lista_01_exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.lmacedo\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01_exercicios\obj\Debug\net8.0\lista_01_exercicios.AssemblyInfoInputs.cache
+C:\Users\vinicius.lmacedo\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01_exercicios\obj\Debug\net8.0\lista_01_exercicios.AssemblyInfo.cs
+C:\Users\vinicius.lmacedo\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01_exercicios\obj\Debug\net8.0\lista_01_exercicios.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.lmacedo\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01_exercicios\obj\Debug\net8.0\lista_01_exercicios.dll
+C:\Users\vinicius.lmacedo\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01_exercicios\obj\Debug\net8.0\refint\lista_01_exercicios.dll
+C:\Users\vinicius.lmacedo\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01_exercicios\obj\Debug\net8.0\lista_01_exercicios.pdb
+C:\Users\vinicius.lmacedo\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01_exercicios\obj\Debug\net8.0\lista_01_exercicios.genruntimeconfig.cache
+C:\Users\vinicius.lmacedo\source\repos\lista_01_exercicios\lista_01_exercicios\lista_01_exercicios\obj\Debug\net8.0\ref\lista_01_exercicios.dll
